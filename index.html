@@ -29,6 +29,11 @@
   }
   * { box-sizing: border-box; }
   html, body { margin: 0; }
+  /* Chrome/Edge on Windows (precision touchpads) and macOS browsers let the
+     whole page "bounce" a few pixels sideways even when nothing overflows.
+     The catalog never scrolls horizontally, so turn that effect off. Vertical
+     scrolling and its bounce are unaffected. */
+  html { overscroll-behavior-x: none; }
   body {
     font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
     color: var(--ink);
