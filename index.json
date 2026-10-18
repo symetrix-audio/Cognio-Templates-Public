@@ -1,0 +1,43 @@
+{
+  "generatedAt": "2026-10-18T14:36:45.847Z",
+  "sourceCommit": "6ae3fbf8a61b1cad4c571a194e2a7fcdaf410dda",
+  "count": 3,
+  "templates": [
+    {
+      "type": "site",
+      "name": "Council-Chambers",
+      "version": "1.0.0",
+      "description": "Software Simulation of Council Chambers Roundtable",
+      "author": "John Vierus",
+      "path": "sites/Council-Chambers/Council-Chambers.cogsite",
+      "infoPath": "sites/Council-Chambers/Council-Chambers-info.json",
+      "downloadUrl": "https://raw.githubusercontent.com/symetrix-audio/Cognio-Templates-Public/main/sites/Council-Chambers/Council-Chambers.cogsite",
+      "imagePath": "sites/Council-Chambers/Council-Chambers-image.png",
+      "imageUrl": "https://raw.githubusercontent.com/symetrix-audio/Cognio-Templates-Public/main/sites/Council-Chambers/Council-Chambers-image.png"
+    },
+    {
+      "type": "site",
+      "name": "Mixing-Console",
+      "version": "1.0.0",
+      "description": "Software Simulation of Common Mixing Console",
+      "author": "John Vierus",
+      "path": "sites/Mixing-Console/Mixing-Console.cogsite",
+      "infoPath": "sites/Mixing-Console/Mixing-Console-info.json",
+      "downloadUrl": "https://raw.githubusercontent.com/symetrix-audio/Cognio-Templates-Public/main/sites/Mixing-Console/Mixing-Console.cogsite",
+      "imagePath": "sites/Mixing-Console/Mixing-Console-image.png",
+      "imageUrl": "https://raw.githubusercontent.com/symetrix-audio/Cognio-Templates-Public/main/sites/Mixing-Console/Mixing-Console-image.png"
+    },
+    {
+      "type": "theme",
+      "name": "Dawn",
+      "version": "1.0.0",
+      "description": "Relaxing theme evoking the dawn of a new day.",
+      "author": "Benjamin Olswang",
+      "path": "themes/Dawn/Dawn.cogtheme",
+      "infoPath": "themes/Dawn/Dawn-info.json",
+      "downloadUrl": "https://raw.githubusercontent.com/symetrix-audio/Cognio-Templates-Public/main/themes/Dawn/Dawn.cogtheme",
+      "imagePath": "themes/Dawn/Dawn-image.png",
+      "imageUrl": "https://raw.githubusercontent.com/symetrix-audio/Cognio-Templates-Public/main/themes/Dawn/Dawn-image.png"
+    }
+  ]
+}
